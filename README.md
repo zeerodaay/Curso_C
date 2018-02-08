@@ -1,2 +1,2 @@
 # Curso_C
-Curso C
+Curso de programação moderna em C
